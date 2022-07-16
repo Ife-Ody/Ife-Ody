@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ife-Ody
-- 🌱 I’m currently learning javascript, a lot of it.
 - 📫 How to reach me: `i.odubela@gmail.com`
 
 <!---
