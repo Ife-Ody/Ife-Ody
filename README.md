@@ -3,4 +3,4 @@
 - MSc Computer Science.
 - Building Reactjs, NextJS and Remix projects @VentureBeyond.
 
-![](https://github-readme-stats.vercel.app/api?username=Ife-Ody&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ife-Ody&show_icons=true&count_private=false)
